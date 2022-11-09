@@ -1,1 +1,1 @@
-# allure-test-ops-ya.ru-tests
+Repository contains tests designed previously in Allure TestOps.
